@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ksu.Cis300.StackLibrary", "Ksu.Cis300.StackLibrary\Ksu.Cis300.StackLibrary.csproj", "{469E7281-270D-4034-8AB1-F8F9F0E61C89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ksu.Cis300.ParenthesisMatcher", "..\..\Lab 6\Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher.csproj", "{E5172E09-8AF1-4B0F-B9B5-388EF3D44371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{469E7281-270D-4034-8AB1-F8F9F0E61C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469E7281-270D-4034-8AB1-F8F9F0E61C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469E7281-270D-4034-8AB1-F8F9F0E61C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469E7281-270D-4034-8AB1-F8F9F0E61C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5172E09-8AF1-4B0F-B9B5-388EF3D44371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5172E09-8AF1-4B0F-B9B5-388EF3D44371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5172E09-8AF1-4B0F-B9B5-388EF3D44371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5172E09-8AF1-4B0F-B9B5-388EF3D44371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://rhowell.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Ksu.Cis300.StackLibrary\\Ksu.Cis300.StackLibrary.csproj
+		SccProjectName1 = Ksu.Cis300.StackLibrary
+		SccLocalPath1 = Ksu.Cis300.StackLibrary
+		SccProjectUniqueName2 = ..\\..\\Lab\u00206\\Ksu.Cis300.ParenthesisMatcher\\Ksu.Cis300.ParenthesisMatcher\\Ksu.Cis300.ParenthesisMatcher.csproj
+		SccProjectName2 = ../../Lab\u00206/Ksu.Cis300.ParenthesisMatcher/Ksu.Cis300.ParenthesisMatcher
+		SccLocalPath2 = ..\\..\\Lab\u00206\\Ksu.Cis300.ParenthesisMatcher\\Ksu.Cis300.ParenthesisMatcher
+	EndGlobalSection
+EndGlobal

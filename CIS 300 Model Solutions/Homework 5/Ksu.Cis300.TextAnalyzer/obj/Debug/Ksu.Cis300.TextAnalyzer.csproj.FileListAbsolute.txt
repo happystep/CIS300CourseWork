@@ -1,0 +1,10 @@
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\bin\Debug\Ksu.Cis300.TextAnalyzer.exe.config
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\bin\Debug\Ksu.Cis300.TextAnalyzer.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\bin\Debug\Ksu.Cis300.TextAnalyzer.pdb
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.Properties.Resources.resources
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.UserInterface.resources
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.csproj.GenerateResource.Cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\obj\Debug\Ksu.Cis300.TextAnalyzer.pdb
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 5\Ksu.Cis300.TextAnalyzer\Ksu.Cis300.TextAnalyzer\bin\Debug\KansasStateUniversity.TreeViewer2.dll

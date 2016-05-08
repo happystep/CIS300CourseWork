@@ -1,0 +1,9 @@
+U:\cis300\fall15\HW 2\Ksu.Cis300.NameLookup\Ksu.Cis300.NameLookup\bin\Debug\Ksu.Cis300.NameLookup.exe.config
+U:\cis300\fall15\HW 2\Ksu.Cis300.NameLookup\Ksu.Cis300.NameLookup\bin\Debug\Ksu.Cis300.NameLookup.exe
+U:\cis300\fall15\HW 2\Ksu.Cis300.NameLookup\Ksu.Cis300.NameLookup\bin\Debug\Ksu.Cis300.NameLookup.pdb
+U:\cis300\fall15\HW 2\Ksu.Cis300.NameLookup\Ksu.Cis300.NameLookup\obj\Debug\Ksu.Cis300.NameLookup.csprojResolveAssemblyReference.cache
+U:\cis300\fall15\HW 2\Ksu.Cis300.NameLookup\Ksu.Cis300.NameLookup\obj\Debug\Ksu.Cis300.NameLookup.Properties.Resources.resources
+U:\cis300\fall15\HW 2\Ksu.Cis300.NameLookup\Ksu.Cis300.NameLookup\obj\Debug\Ksu.Cis300.NameLookup.UserInterface.resources
+U:\cis300\fall15\HW 2\Ksu.Cis300.NameLookup\Ksu.Cis300.NameLookup\obj\Debug\Ksu.Cis300.NameLookup.csproj.GenerateResource.Cache
+U:\cis300\fall15\HW 2\Ksu.Cis300.NameLookup\Ksu.Cis300.NameLookup\obj\Debug\Ksu.Cis300.NameLookup.exe
+U:\cis300\fall15\HW 2\Ksu.Cis300.NameLookup\Ksu.Cis300.NameLookup\obj\Debug\Ksu.Cis300.NameLookup.pdb
